@@ -1,0 +1,1 @@
+# safemoonfast.sol
